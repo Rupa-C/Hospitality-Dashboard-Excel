@@ -21,7 +21,7 @@ This Excel dashboard provides key insights into the performance of a hospitality
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.PNG)
 
 > This is a personal project developed for practice and portfolio purposes.
 
